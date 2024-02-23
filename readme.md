@@ -12,6 +12,8 @@
 
 ---
 
+| CONTENTIDO | CONCEPTO |
+| --- | --- |
 | flex-direction | Permite dar la direction | 
 
 FLEX-DIRECTION
