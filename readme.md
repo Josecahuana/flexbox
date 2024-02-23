@@ -5,7 +5,7 @@
 1. main-axis - Es el eje horizontal en el "row".
 1. cross-axis - Es el eje vertical en el "column".
 
----
+| CONTENTIDO | CONCEPTO |
 | --- | --- |
 | justify-content | Permite ajustar el contenido con flex-start, flex-end |
 | flexbox | Es un método de diseño unidimensional, en filas y columnas |
