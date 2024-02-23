@@ -6,8 +6,7 @@
 1. cross-axis - Es el eje vertical en el "column".
 
 ---
-
-
+| --- | --- |
 | justify-content | Permite ajustar el contenido con flex-start, flex-end |
 | flexbox | Es un método de diseño unidimensional, en filas y columnas |
 
